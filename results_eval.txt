@@ -1,0 +1,10 @@
+type              count  flagged   exact
+genuine            9900     0.0%  100.0%
+deceased            100   100.0%  100.0%
+duplicate           200   100.0%  100.0%
+shared_account      129   100.0%  100.0%
+shared_phone         48   100.0%  100.0%
+genuine_pair        100     0.0%  100.0%
+
+Detection rate (planted errors flagged): 100.0%
+False-hold rate (genuine wrongly flagged): 0.00%

@@ -1,0 +1,2 @@
+Before tampering: (True, None)
+After tampering: intact=False, first bad entry index=2
